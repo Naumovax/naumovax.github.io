@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>naumovax.github.io/</loc>
+    <loc>https://naumovax.github.io/</loc>
   </url><url>
-    <loc>naumovax.github.io/categories/</loc>
+    <loc>https://naumovax.github.io/categories/</loc>
   </url><url>
-    <loc>naumovax.github.io/posts/first/</loc>
+    <loc>https://naumovax.github.io/posts/first/</loc>
   </url><url>
-    <loc>naumovax.github.io/posts/second/</loc>
+    <loc>https://naumovax.github.io/posts/second/</loc>
   </url><url>
-    <loc>naumovax.github.io/posts/</loc>
+    <loc>https://naumovax.github.io/posts/</loc>
   </url><url>
-    <loc>naumovax.github.io/tags/</loc>
+    <loc>https://naumovax.github.io/tags/</loc>
   </url><url>
-    <loc>naumovax.github.io/aboutme/</loc>
+    <loc>https://naumovax.github.io/aboutme/</loc>
   </url>
 </urlset>
