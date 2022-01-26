@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language><atom:link href="https://naumovax.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Just intro💥</title>
+      <link>https://naumovax.github.io/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://naumovax.github.io/aboutme/</guid>
+      <description>About me (cybersecurity) In 2018, I got into the world of cybersecurity thanks to enrolling in MPEI university, or rather, the CTF movement held at a university. Now I am a member of the &amp;ldquo;Unicorn Team&amp;rdquo; (university CTF team). I like to solve osint, cryptography, network, sometimes web, forensics. I worked for 2 years at Kaspersky Lab as a web threat analyst. More than once I won or became a prize-winner in various competitions related to cybersecurity.</description>
+    </item>
+    
+    <item>
       <title>My First Post (will be soon)</title>
       <link>https://naumovax.github.io/posts/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -22,15 +31,6 @@
       
       <guid>https://naumovax.github.io/posts/second/</guid>
       <description>something interesting </description>
-    </item>
-    
-    <item>
-      <title>will be soon</title>
-      <link>https://naumovax.github.io/aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://naumovax.github.io/aboutme/</guid>
-      <description></description>
     </item>
     
   </channel>
