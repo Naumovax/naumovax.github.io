@@ -13,8 +13,7 @@
       <pubDate>Fri, 28 Jan 2022 01:01:43 +1100</pubDate>
       
       <guid>https://naumovax.github.io/posts/kaseyahack/</guid>
-      <description>this research was completed by July 16, 2021 Intro to post One winter in 2021, I met some cool guys from the Indian company Bluefire Redteam and wrote osint tasks for their CTF. In the spring of the same year, the guys invited me to their new two-month course (internship) on Advanced osint. And so began the story of one post, one of the thousands of attacks.
-In this note, I will tell you about my mini-research (that I did as part of the internship) related to a fairly well-known attack that occurred on July 2, 2021.</description>
+      <description>This research was completed by July 16, 2021 I became a finalist with the report about the &amp;ldquo;Kaseya hack&amp;rdquo; at &amp;ldquo;The Young Hats&amp;rdquo; competition from &amp;ldquo;The Standoff&amp;rdquo;. My report is available here (ru) Intro to post One winter in 2021, I met some cool guys from the Indian company Bluefire Redteam and wrote osint tasks for their CTF. In the spring of the same year, the guys invited me to their new two-month course (internship) on Advanced osint.</description>
     </item>
     
     <item>
@@ -23,7 +22,7 @@ In this note, I will tell you about my mini-research (that I did as part of the 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://naumovax.github.io/aboutme/</guid>
-      <description>About me (cybersecurity) In 2018, I got into the world of cybersecurity thanks to enrolling in MPEI university, or rather, the CTF movement held at a university. Now I am a member of the &amp;ldquo;Unicorn Team&amp;rdquo; (university CTF team). I like to solve osint, cryptography, network, sometimes web, forensics. I worked for 2 years at Kaspersky Lab as a web threat analyst. More than once I won or became a prize-winner in various competitions related to cybersecurity.</description>
+      <description>About me (cybersecurity)  student of the National Research University MPEI (information security) web malware analyst at Kaspersky Lab (2 years) CTF player (member of the &amp;ldquo;Unicorn team&amp;rdquo;) winner and prize-winner in various competitions related to cybersecurity participant and speaker of educational events at &amp;ldquo;Sirius&amp;rdquo; University, Positive Technologies, Bank of Russia cyber threat analyst osint enthusiast   About me (other passions)  professional photography amateur passion for astronomy and other things related to space sometimes traveling (publishing on my Instagram)   My posts will be about&amp;hellip; I will write exclusively about topics related to cybersecurity (osint, web threats, networks, auditing, cyber news, phishing): I will show my researches, interesting finds on the web, useful tools, explore different malware samples, CTF tasks (which I solved and which I wrote myself), the competitions in which I participate.</description>
     </item>
     
   </channel>
